@@ -1,0 +1,8 @@
+{
+  "name": "Remix  webgl-realistic-v9",
+  "description": "Imported from GitHub: alzoubi93/cirzuit-webgl-realistic-v7",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
